@@ -1,0 +1,26 @@
+_id: req_8daa1c863b6947d7aff9400ab6cde465
+type: Request
+parentId: fld_65e5ea9d1ca241d4ac4a976585bd50fb
+modified: 1667877800741
+created: 1667837105797
+url: https://hellofb-33b7c-default-rtdb.asia-southeast1.firebasedatabase.app/users/jack3.json
+name: 2.입력
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: '{ "first": "jack3", "last": "ch2o" }'
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_50ba0ecfee774b3ca688c715bc5bfdf3
+authentication: {}
+metaSortKey: -1667877798876
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
